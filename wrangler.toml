@@ -1,0 +1,8 @@
+
+name = "zikaplus-key-server"
+main = "src/index.js"
+compatibility_date = "2026-10-12"
+
+[[kv_namespaces]]
+binding = "KEY_STORE"
+id = "8153ec9d74b54b6f8698289dd68713a1"
